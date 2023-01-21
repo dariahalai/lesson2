@@ -7,6 +7,7 @@ const Navigation = () =>{
             <ul>
             <li><NavItem to='/'>Home</NavItem></li>
             <li><NavItem to='events' >Events</NavItem></li>
+            <li><NavItem to='search' >Search</NavItem></li>
             </ul>
         </nav>
     )
